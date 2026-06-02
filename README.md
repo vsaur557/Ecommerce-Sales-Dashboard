@@ -22,4 +22,4 @@ This Power BI dashboard analyzes ecommerce sales performance using a sample data
 - DAX
 
 ## Dashboard Preview
-(https://github.com/vsaur557/Ecommerce-Sales-Dashboard/blob/main/Screenshot%202026-06-02%20161414.png)
+![Ecommerce Sales Dashboard](https://raw.githubusercontent.com/vsaur557/Ecommerce-Sales-Dashboard/main/Screenshot%202026-06-02%20161414.png)
